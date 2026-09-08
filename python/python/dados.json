@@ -1,0 +1,17 @@
+{
+    "id": 1001,
+    "nome": "Bruna da Silva",
+    "idade": 36,
+    "email": "brunasilvad@outlook.com",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "profissao": "Advogada",
+    "trabalha": true,
+    "LinkedIn": "https://www.linkedin.com/in/brunasilva/",
+    "disciplinas": [
+        "Python I",
+        "Python II",
+        "Lógica de Programação"
+    ],
+    "redesocial": "bruna.sil@"
+}
